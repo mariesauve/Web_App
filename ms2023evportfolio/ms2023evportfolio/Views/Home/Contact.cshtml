@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+
+<h2> @ViewBag.Title</h2>
+<style>
+    .grid-container {
+        display: grid;
+        gap: 10px;
+        background-color: none;
+        padding: 10px;
+    }
+
+    .grid-item {
+        background-color: rgba(255, 255, 255, 0.8);
+        text-align: center;
+        padding: 20px;
+        margin: 15px;
+        font-size: 30px;
+    }
+
+    .item1 {
+        grid-column: 1;
+        grid-row: 1 / span 2;
+    }
+
+    .item2 {
+        grid-column: 2 / span 2;
+        grid-row: 1 / span 2;
+    }
+</style>
+<h3>
+    Marie Sauve <br /><br />
+</h3>
+<h3>
+    My Links
+    <br />
+    <a href="https://github.com/mariesauve" target="_blank">GitHub</a>
+    <br />
+    <a href="https://triosdevelopers.com/~M.Sauve/" target="_blank">triOS Developers</a>
+</h3>
+
+
+<div class="grid-container">
+    <div class="grid-item item1">
+        <p>
+            <a href="mailto:marie.sauve@triosstudent.com"><h3>School Email</h3></a>
+            <a href="mailto:marie_sauve@outlook.com"><h3>Personal Email</h3></a>
+        </p>
+    </div>
+    <div class="grid-item item2">
+
+        <h4>
+            <a href="~/Content/Resume-2024.pdf" target="_blank" alt="resume picture" style="font-size:xx-large;"><img src="~/Content/Resume.png" id="portrait" width="200" height="250" alt="resume picture" /> <= Resume </a>
+            @*<a href="mailto:marie.sauve@triosstudent.com"><h3>School Email</h3></a>
+            <a href="mailto:marie_sauve@outlook.com"><h3>Personal Email</h3></a>*@
+        </h4>
+       
+        <br />
+        <h4>Contact #289-527-3901</h4>
+    </div>
+</div>

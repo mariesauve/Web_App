@@ -1,0 +1,158 @@
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\ms2023evportfolio.dll.config
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\ms2023evportfolio.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\ms2023evportfolio.pdb
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csc.exe
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csc.exe.config
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csc.rsp
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csi.exe
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csi.exe.config
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csi.rsp
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.AppContext.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Console.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.IO.Compression.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Net.Http.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.ValueTuple.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\vbc.exe
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\vbc.exe.config
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\vbc.rsp
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\Antlr3.Runtime.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\Newtonsoft.Json.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Helpers.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Mvc.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Optimization.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Razor.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.Razor.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\WebGrease.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Helpers.xml
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Mvc.xml
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Optimization.xml
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Razor.xml
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.xml
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.Razor.xml
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\Newtonsoft.Json.xml
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\Antlr3.Runtime.pdb
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\obj\Release\ms2023evportfolio.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\obj\Release\ms2023evportfolio.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\obj\Release\ms2023evportfolio.csproj.CopyComplete
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\obj\Release\ms2023evportfolio.dll
+C:\Users\marie\OneDrive\Desktop\C#2023EV\ms2023evportfolio\ms2023evportfolio\obj\Release\ms2023evportfolio.pdb
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\ms2023evportfolio.dll.config
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\ms2023evportfolio.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\ms2023evportfolio.pdb
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csc.exe
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csc.exe.config
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csc.rsp
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csi.exe
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csi.exe.config
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\csi.rsp
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.AppContext.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Console.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.IO.Compression.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Net.Http.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.ValueTuple.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\vbc.exe
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\vbc.exe.config
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\vbc.rsp
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\Antlr3.Runtime.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\Newtonsoft.Json.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Helpers.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Mvc.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Optimization.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Razor.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.Razor.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\WebGrease.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Helpers.xml
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Mvc.xml
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Optimization.xml
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.Razor.xml
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.xml
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\System.Web.WebPages.Razor.xml
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\Newtonsoft.Json.xml
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\Antlr3.Runtime.pdb
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\obj\Release\ms2023evportfolio.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\obj\Release\ms2023evportfolio.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\obj\Release\ms2023evportfolio.dll
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\obj\Release\ms2023evportfolio.pdb
+C:\Users\marie\OneDrive\Desktop\Stuff I will need for a job\ms2023evportfolio\ms2023evportfolio\obj\Release\ms2023ev.32FF75C5.Up2Date
